@@ -41,7 +41,7 @@ Vehicle Mechatronics and Informatics Engineer with solid knowledge from Ostfalia
 ### Automotive Technologies
 - **Bus Systems:** CAN, CAN-FD
 - **Diagnostic Tools:** ODIS, CP-Tool, CANoe
-- **Connectivity:** OCU3/OCU4, DLT-Viewer, PuTTY, Serial2, OECON Portal, Krypto42
+- **Connectivity:** PuTTY, Serial2, OECON Portal, Krypto42
 
 ## 🚀 Projects
 
