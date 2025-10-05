@@ -16,8 +16,8 @@ Vehicle Mechatronics and Informatics Engineer with solid knowledge from Ostfalia
 - 🔧 Test Bench Support & Test Automation
 - 🚗 Vehicle Integration & Software Testing
 - 🔌 Bus Systems & Diagnostics
-- 💻 Embedded Systems Development
-- 🤖 Autonomous Driving Technologies
+- 💻 Embedded Systems
+- 🤖 Autonomous Driving
 - 📊 Model-Based Development
 - 🛠️ Simulation Tool Development
 
@@ -43,46 +43,28 @@ Vehicle Mechatronics and Informatics Engineer with solid knowledge from Ostfalia
 - **Diagnostic Tools:** ODIS, CP-Tool, CANoe
 - **Connectivity:** OCU3/OCU4, DLT-Viewer, PuTTY, Serial2, OECON Portal, Krypto42
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🏎️ Automotive & Control Systems
+### [Temperature Control System](https://github.com/firas699/Temperaturregler_Matlab_Simulink)
+PID-based thermal control system in MATLAB/Simulink
 
-#### [Formula Student Driverless](https://github.com/firas699/Formula_Student_Driverless_Paython)
-Python-based autonomous racing system for Formula Student competitions with path planning, trajectory optimization, and real-time decision making for competitive racing scenarios.
+### [Thermal Brake Simulation](https://github.com/firas699/Thermisches_Bremssimulations-Tool_Paython_Streamlit)
+Python/Streamlit tool for brake disc thermal analysis
 
-#### [Adaptive Cruise Control (ACC)](https://github.com/firas699/Tempomat_Folgefahrt_Simulink_Matlab)
-Advanced driver assistance system in MATLAB/Simulink featuring intelligent distance regulation, speed control, and vehicle following behavior modeling.
+### [Autonomous Driving](https://github.com/firas699/Autonomes_Fahren_mbedOS_ARMCortexM3)
+Autonomous vehicle control software on ARM Cortex-M3 with MbedOS
 
-#### [Autonomous Driving System](https://github.com/firas699/Autonomes_Fahren_mbedOS_ARMCortexM3)
-Complete autonomous vehicle control software on ARM Cortex-M3 with MbedOS, implementing sensor fusion, decision-making algorithms, and hardware abstraction layer.
+### [Adaptive cruise Control](https://github.com/firas699/Tempomat_Folgefahrt_Simulink_Matlab)
+Tempomat/ACC in MATLAB/Simulink
 
-#### [Thermal Brake Simulation Tool](https://github.com/firas699/Thermisches_Bremssimulations-Tool_Paython_Streamlit)
-Interactive Python/Streamlit web application for brake disc thermal analysis, featuring heat transfer modeling, performance visualization, and engineering-focused user interface.
+### [Airport Manager](https://github.com/firas699/Train_Manager_Waggon_Eigenschaften)
+Cheking Terminal/Airplane in c++
 
-#### [Temperature Control System](https://github.com/firas699/Temperaturregler_Matlab_Simulink)
-PID-based thermal management system in MATLAB/Simulink with classical control theory implementation, system identification, and real-time simulation capabilities.
+### [Train Manager](https://github.com/firas699/Airport_Manager_Airplane_Checking)
+create Train/Wagon in c++
 
-### 🤖 Embedded Systems on ARM Cortex-M3
+...
 
-#### [CAN Bus Communication](https://github.com/firas699/CAN_Bus_mbedOS_ARMCortexM3)
-Complete CAN protocol implementation with message filtering, handling, and multi-node communication setup for automotive applications.
-
-#### [DC Motor Control](https://github.com/firas699/DC-Motorsteuerung_mbedOS_ARMCortexM3)
-Precision motor speed and position control using PWM-based control, feedback loops, and real-time performance optimization.
-
-#### [Traffic Light Control System](https://github.com/firas699/Ampelsteuerung_mbedOS_ARMCortexM3)
-Intelligent traffic light controller implementing state machine design patterns with timing control and synchronization.
-
-### 🎮 Interactive Applications
-
-#### [Pong Game](https://github.com/firas699/Pong-Spiel_mbedOS_ARMCortexM3)
-Classic Pong implementation demonstrating bare-metal programming, real-time game loops, and hardware interfacing.
-
-#### [Digital Piano](https://github.com/firas699/Piano_mbedOS_ARMCortexM3)
-Audio generation system with real-time signal processing and user input handling on embedded hardware.
-
-#### [Calculator](https://github.com/firas699/Taschenrechner_mbedOS_ARMCortexM3)
-Embedded calculator application showcasing user interface implementation and mathematical operations handling.
 
 ## 📊 GitHub Stats
 
@@ -94,22 +76,12 @@ Embedded calculator application showcasing user interface implementation and mat
 
 </div>
 
-## 🎯 Areas of Expertise
-
-- 🚙 **Autonomous Vehicles & ADAS** - Advanced driver assistance systems and autonomous driving technologies
-- 🔌 **Vehicle Connectivity** - Telematics, infotainment systems, and vehicle-to-everything communication
-- ⚙️ **Control Systems** - Model-based development and real-time control system implementation
-- 🤖 **Embedded Development** - Bare-metal programming and RTOS-based applications
-- 📡 **Automotive Protocols** - CAN, CAN-FD implementation and vehicle diagnostics
-- 🧪 **Test Automation** - Software testing, vehicle integration, and test bench operations
 
 ## 📫 Let's Connect
 
-I'm always interested in discussing automotive technologies, embedded systems, and collaboration opportunities in the automotive industry.
+I'm always interested in discussing automotive technologies, Autonomous Driving and Embedded systems.
 
 <div align="center">
-
-**Open for opportunities in automotive software development and embedded systems engineering**
 
 ---
 
