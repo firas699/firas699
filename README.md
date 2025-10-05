@@ -1,9 +1,6 @@
 # Firas Ben Fraj
 
 **Mechatronics & Informatics Engineer** 
-🎓 B.Eng. Automotive Mechatronics and Informatics
-📍 Wolfsburg, Germany | Ostfalia University of Applied Sciences
-
 ---
 
 ## Technical Stack
@@ -33,7 +30,7 @@ Tempomat/ACC in MATLAB/Simulink
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-firasbf6@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:firasbf6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ben-fraj-328a59324/)
