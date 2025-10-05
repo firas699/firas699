@@ -10,15 +10,28 @@
 
 ## 🎓 About Me
 
-Mechatronics & Informatics Engineer with expertise in automotive systems, embedded development, and control systems. Passionate about autonomous driving technologies and vehicle connectivity solutions.
+Vehicle Mechatronics and Informatics Engineer with solid knowledge from Ostfalia University of Applied Sciences Wolfsburg and comprehensive practical experience in the automotive industry.
+
+### Core Competencies
+- 🔧 Test Bench Support & Test Automation
+- 🚗 Vehicle Integration & Software Testing
+- 🔌 Bus Systems & Diagnostics
+- 💻 Embedded Systems
+- 🤖 Autonomous Driving
+- 📊 Model-Based Development
+- 🛠️ Simulation Tool Development
 
 ## 💻 Technical Expertise
 
-### Languages & Core Technologies
+### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Modeling & Simulation
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FE7A16?style=flat-square)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square)
 
 ### Embedded Systems & Robotics
 ![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD?style=flat-square&logo=arm&logoColor=white)
@@ -26,16 +39,11 @@ Mechatronics & Informatics Engineer with expertise in automotive systems, embedd
 ![ROS](https://img.shields.io/badge/ROS/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 
 ### Automotive Technologies
-- **Protocols:** CAN, CAN-FD
-- **Tools:** ODIS, CP-Tool, CANoe
+- **Bus Systems:** CAN, CAN-FD
+- **Diagnostic Tools:** ODIS, CP-Tool, CANoe
 - **Connectivity:** OCU3/OCU4, DLT-Viewer, PuTTY, Serial2, OECON Portal, Krypto42
 
-### Engineering Tools
-![Simulink](https://img.shields.io/badge/Simulink-FE7A16?style=flat-square)
-![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🤖 [Autonomous Driving System](https://github.com/firas699/Autonomes_Fahren_mbedOS_ARMCortexM3)
 Autonomous vehicle control software implementation on ARM Cortex-M3 microcontroller using MbedOS
@@ -44,7 +52,7 @@ Autonomous vehicle control software implementation on ARM Cortex-M3 microcontrol
 - Hardware abstraction layer implementation
 
 ### 🚗 [Adaptive Cruise Control (ACC)](https://github.com/firas699/Tempomat_Folgefahrt_Simulink_Matlab)
-Advanced driver assistance system simulation in MATLAB/Simulink
+Advanced driver assistance system simulation in MATLAB/Simulink featuring tempomat and vehicle following functionality
 - Distance regulation and speed control
 - Vehicle following behavior modeling
 - Control system design and tuning
@@ -57,9 +65,51 @@ PID-based thermal management system designed in MATLAB/Simulink
 
 ### 🔥 [Thermal Brake Simulation Tool](https://github.com/firas699/Thermisches_Bremssimulations-Tool_Paython_Streamlit)
 Interactive web application for brake disc thermal analysis using Python and Streamlit
-- Heat transfer modeling
-- Performance visualization
-- User-friendly interface for engineers
+- Heat transfer modeling and thermal analysis
+- Performance visualization and data analytics
+- User-friendly interface for engineering teams
+
+### 🏎️ [Formula Student Driverless](https://github.com/firas699/Formula_Student_Driverless_Paython)
+Python-based autonomous racing system for Formula Student competitions
+- Path planning and trajectory optimization
+- Real-time decision making for racing scenarios
+- Integration with vehicle control systems
+
+### 🎮 [Pong Game - ARM Cortex-M3](https://github.com/firas699/Pong-Spiel_mbedOS_ARMCortexM3)
+Classic Pong game implementation on ARM Cortex-M3 using MbedOS
+- Bare-metal embedded programming
+- Real-time game loop implementation
+- Hardware interfacing and display control
+
+### 🚦 [Traffic Light Control System](https://github.com/firas699/Ampelsteuerung_mbedOS_ARMCortexM3)
+Intelligent traffic light control system on ARM Cortex-M3 with MbedOS
+- State machine implementation
+- Timing control and synchronization
+- Embedded system design patterns
+
+### ⚡ [DC Motor Control](https://github.com/firas699/DC-Motorsteuerung_mbedOS_ARMCortexM3)
+DC motor speed and position control system using ARM Cortex-M3 and MbedOS
+- PWM-based motor control
+- Feedback control implementation
+- Real-time performance optimization
+
+### 🔢 [Calculator - ARM Cortex-M3](https://github.com/firas699/Taschenrechner_mbedOS_ARMCortexM3)
+Calculator application on ARM Cortex-M3 microcontroller using MbedOS
+- User interface implementation
+- Mathematical operations handling
+- Embedded application development
+
+### 🎵 [Piano - ARM Cortex-M3](https://github.com/firas699/Piano_mbedOS_ARMCortexM3)
+Digital piano implementation on ARM Cortex-M3 using MbedOS
+- Audio signal generation
+- Button input handling
+- Real-time audio processing
+
+### 📡 [CAN Bus Communication](https://github.com/firas699/CAN_Bus_mbedOS_ARMCortexM3)
+CAN bus communication system implementation on ARM Cortex-M3 with MbedOS
+- CAN protocol implementation
+- Message filtering and handling
+- Multi-node communication setup
 
 ## 📊 GitHub Stats
 
@@ -78,6 +128,8 @@ Interactive web application for brake disc thermal analysis using Python and Str
 - ⚙️ Control Systems Engineering
 - 🤖 Embedded Systems Development
 - 📡 Automotive Communication Protocols
+- 🧪 Test Automation & Vehicle Integration
+- 🔬 Model-Based Systems Engineering
 
 ## 📫 Let's Connect
 
