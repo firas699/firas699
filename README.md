@@ -65,8 +65,6 @@ create Train/Wagon in c++
 
 ...
 
----
-
 ## 📫 Let's Connect
 
 I'm always interested in discussing automotive technologies, Autonomous Driving and Embedded systems.
