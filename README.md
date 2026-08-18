@@ -65,17 +65,7 @@ create Train/Wagon in c++
 
 ...
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firas699&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firas699&layout=compact&theme=default&hide_border=true)
-
-</div>
-
+---
 
 ## 📫 Let's Connect
 
