@@ -51,12 +51,12 @@ embedded control and simulation tools. Vehicle Mechatronics and Informatics Engi
 
 <div align="center">
 
-<a href="https://github.com/firas699/Autonomes_Fahren_mbedOS_ARMCortexM3"><img src="./profile/pin-autonomes-fahren.svg" alt="Autonomous Driving" /></a>
-<a href="https://github.com/firas699/Thermisches_Bremssimulations-Tool_Paython_Streamlit"><img src="./profile/pin-bremssimulation.svg" alt="Thermal Brake Simulation" /></a>
-<a href="https://github.com/firas699/Temperaturregler_Matlab_Simulink"><img src="./profile/pin-temperaturregler.svg" alt="Temperature Control System" /></a>
-<a href="https://github.com/firas699/Tempomat_Folgefahrt_Simulink_Matlab"><img src="./profile/pin-tempomat.svg" alt="Adaptive Cruise Control" /></a>
-<a href="https://github.com/firas699/Airport_Manager_Airplane_Checking"><img src="./profile/pin-airport.svg" alt="Airport Manager" /></a>
-<a href="https://github.com/firas699/Train_Manager_Waggon_Eigenschaften"><img src="./profile/pin-train.svg" alt="Train Manager" /></a>
+<a href="https://github.com/firas699/Autonomes_Fahren_mbedOS_ARMCortexM3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Autonomes_Fahren_mbedOS_ARMCortexM3&theme=dark" alt="Autonomous Driving" /></a>
+<a href="https://github.com/firas699/Thermisches_Bremssimulations-Tool_Paython_Streamlit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Thermisches_Bremssimulations-Tool_Paython_Streamlit&theme=dark" alt="Thermal Brake Simulation" /></a>
+<a href="https://github.com/firas699/Temperaturregler_Matlab_Simulink"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Temperaturregler_Matlab_Simulink&theme=dark" alt="Temperature Control System" /></a>
+<a href="https://github.com/firas699/Tempomat_Folgefahrt_Simulink_Matlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Tempomat_Folgefahrt_Simulink_Matlab&theme=dark" alt="Adaptive Cruise Control" /></a>
+<a href="https://github.com/firas699/Airport_Manager_Airplane_Checking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Airport_Manager_Airplane_Checking&theme=dark" alt="Airport Manager" /></a>
+<a href="https://github.com/firas699/Train_Manager_Waggon_Eigenschaften"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Train_Manager_Waggon_Eigenschaften&theme=dark" alt="Train Manager" /></a>
 
 </div>
 
@@ -73,8 +73,8 @@ embedded control and simulation tools. Vehicle Mechatronics and Informatics Engi
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
-<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=firas699&show_icons=true&theme=dark" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firas699&theme=dark&layout=compact" alt="Top languages" />
 
 </div>
 
