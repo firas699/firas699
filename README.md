@@ -1,70 +1,68 @@
-<img src="profile/banner.svg" alt="Firas Ben Fraj – Ingenieur Mechatronik und Informatik" width="100%">
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/firas-ben-fraj-328a59324/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:firasbf6@gmail.com">firasbf6@gmail.com</a>
-  &nbsp;·&nbsp;
-  Villingen-Schwenningen
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=170&section=header&text=Firas%20Ben%20Fraj&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Vehicle%20Mechatronics%20and%20Informatics%20Engineer&descSize=18&descAlignY=60" alt="Firas Ben Fraj" />
 
-Ich entwickle Hard- und Software für Fahrzeug- und Embedded-Systeme, von der Schaltung über die Firmware bis zur Validierung.
-Abschluss **B.Eng. Fahrzeugmechatronik und -informatik** an der Ostfalia Hochschule, berufsbegleitend im **M.Sc. Intelligente Systeme**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas_Ben_Fraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ben-fraj-328a59324/)
+[![Email](https://img.shields.io/badge/Email-firasbf6@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firasbf6@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=firas699&style=flat-square&label=Profile+views&color=0A66C2)
 
-## Aktuell
+</div>
 
-- **Ingenieur Entwicklung** bei ROMESS-Rogg GmbH + Co. KG: Soft- und Hardware-Produktentwicklung bis zur Serienreife
-- **M.Sc. Intelligente Systeme**, Ostfalia Hochschule (seit 03/2026)
+I bridge **mechanical engineering, electronics and software**: from CAN bus and test benches to
+embedded control and simulation tools. Vehicle Mechatronics and Informatics Engineer with a degree from
+**Ostfalia University of Applied Sciences Wolfsburg** and hands-on experience in the automotive industry.
 
-## Schwerpunkte
+## 🎯 What I do
 
-| Bereich | Inhalt |
-|:--|:--|
-| **Embedded & Hardware** | Mbed OS auf ARM Cortex-M, Schaltplan- und Platinenentwurf (KiCad), Sensorik |
-| **Robotik & KI** | ROS 2, SLAM, Nav2; Bachelorarbeit: autonomer Museumsführer auf TurtleBot 4 mit Sprachdialog (LLM) |
-| **Fahrzeugtest & Diagnose** | CAN / CAN-FD, CANoe, Prüfstands- und Fahrzeugtests, Trace-Analyse |
-| **Modellbasierte Entwicklung** | MATLAB / Simulink, Regelung und Simulation |
+| Focus | Topics |
+|---|---|
+| 🧪 **Test & Validation** | Test bench support, test automation, vehicle integration, software testing |
+| 🔌 **Bus Systems & Diagnostics** | CAN / CAN-FD, diagnostics, ECU communication |
+| 🤖 **Embedded & Autonomous Driving** | ARM Cortex-M, MbedOS, ROS / ROS2 |
+| 📐 **Model-Based Development** | MATLAB / Simulink, controller design, simulation tool development |
 
-## Technologien
+## 🛠 Tech stack
 
-| | |
-|:--|:--|
-| **Sprachen** | `C` `C++` `Python` `MATLAB` |
-| **Embedded** | `Mbed OS` `ARM Cortex-M` `UART` `SPI` `I2C` `PlatformIO` |
-| **Robotik & KI** | `ROS 2` `Nav2` `SLAM` `LIDAR` `Raspberry Pi` `Azure OpenAI` |
-| **Automotive** | `CAN` `CAN-FD` `CANoe` `DLT-Viewer` `ControlDesk` |
-| **Tools** | `Git` `Docker` `Linux` `Simulink` `CATIA` `SOLIDWORKS` `KiCad` |
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Projekte
+**Modeling & Simulation**
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FE7A16?style=flat-square&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-| Projekt | Beschreibung | Technologien |
-|:--|:--|:--|
-| [**Autonomes Modellfahrzeug**](https://github.com/firas699/Autonomes_Fahren_mbedOS_ARMCortexM3) | Echtzeit-Fahrzeugsteuerung im Maßstab 1:10 auf LPC1768: Sensorik (IR, Ultraschall) im 100-ms-, Aktorik im 20-ms-Takt, Systemmonitor, Querregelung | `C++` `Mbed OS` `ARM Cortex-M3` |
-| [**Thermische Bremsscheibenanalyse**](https://github.com/firas699/Thermisches_Bremssimulations-Tool_Paython_Streamlit) | Web-Tool zur thermischen Simulation von Bremsscheiben | `Python` `Streamlit` |
-| [**Adaptive Cruise Control**](https://github.com/firas699/Tempomat_Folgefahrt_Simulink_Matlab) | Tempomat mit Folgefahrt, modelliert und simuliert | `MATLAB` `Simulink` |
-| [**Temperaturregler**](https://github.com/firas699/Temperaturregler_Matlab_Simulink) | Regelung eines thermischen Systems | `MATLAB` `Simulink` |
-| [**Airport Manager**](https://github.com/firas699/Airport_Manager_Airplane_Checking) | Verwaltung von Terminal und Flugzeugabfertigung | `C++` |
-| [**Train Manager**](https://github.com/firas699/Train_Manager_Waggon_Eigenschaften) | Zusammenstellung von Zügen aus Waggons mit Eigenschaften | `C++` |
+**Embedded & Robotics**
+![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
+![MbedOS](https://img.shields.io/badge/Mbed_OS-008C8C?style=flat-square&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS_/_ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 
-## Kontakt
+**Automotive tooling**
+![CAN](https://img.shields.io/badge/CAN_/_CAN--FD-2C3E50?style=flat-square&logoColor=white)
+![CANoe](https://img.shields.io/badge/CANoe-E30613?style=flat-square&logoColor=white)
+![ODIS](https://img.shields.io/badge/ODIS-001E50?style=flat-square&logoColor=white)
+![CP-Tool](https://img.shields.io/badge/CP--Tool-555555?style=flat-square&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-0A66C2?style=flat-square&logoColor=white)
+![Krypto42](https://img.shields.io/badge/Krypto42-555555?style=flat-square&logoColor=white)
 
-<<<<<<< HEAD
-Für Austausch zu Embedded Systems, Robotik und Fahrzeugtechnik erreichen Sie mich am besten über
-[LinkedIn](https://www.linkedin.com/in/firas-ben-fraj-328a59324/) oder per [E-Mail](mailto:firasbf6@gmail.com).
-=======
-## 📌 Featured projects
+## 📊 GitHub stats
 
 <div align="center">
 
-<a href="https://github.com/firas699/Autonomes_Fahren_mbedOS_ARMCortexM3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Autonomes_Fahren_mbedOS_ARMCortexM3&theme=dark" alt="Autonomous Driving" /></a>
-<a href="https://github.com/firas699/Thermisches_Bremssimulations-Tool_Paython_Streamlit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Thermisches_Bremssimulations-Tool_Paython_Streamlit&theme=dark" alt="Thermal Brake Simulation" /></a>
-<a href="https://github.com/firas699/Temperaturregler_Matlab_Simulink"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Temperaturregler_Matlab_Simulink&theme=dark" alt="Temperature Control System" /></a>
-<a href="https://github.com/firas699/Tempomat_Folgefahrt_Simulink_Matlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Tempomat_Folgefahrt_Simulink_Matlab&theme=dark" alt="Adaptive Cruise Control" /></a>
-<a href="https://github.com/firas699/Airport_Manager_Airplane_Checking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Airport_Manager_Airplane_Checking&theme=dark" alt="Airport Manager" /></a>
-<a href="https://github.com/firas699/Train_Manager_Waggon_Eigenschaften"><img src="https://github-readme-stats.vercel.app/api/pin/?username=firas699&repo=Train_Manager_Waggon_Eigenschaften&theme=dark" alt="Train Manager" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=firas699&show_icons=true&theme=dark" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firas699&theme=dark&layout=compact" alt="Top languages" />
 
+</div>
 
-## 📊 GitHub stats
->>>>>>> bf70fb7 (New style)
+## 🤝 Let's connect
 
-<sub>Sprachen: Deutsch (C1) · Englisch (B1) · Französisch (B1) · Arabisch (Muttersprache)</sub>
+I'm always happy to talk about **automotive technology, autonomous driving and embedded systems**.
+The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/firas-ben-fraj-328a59324/) or [email](mailto:firasbf6@gmail.com).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=90&section=footer" alt="" />
+
+</div>
