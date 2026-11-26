@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00599C&height=170&section=header&text=Firas%20Ben%20Fraj&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Vehicle%20Mechatronics%20%26%20Informatics%20Engineer&descSize=18&descAlignY=60" alt="Firas Ben Fraj" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00599C&height=170&section=header&text=Firas%20Ben%20Fraj&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Vehicle%20Mechatronics%20and%20Informatics%20Engineer&descSize=18&descAlignY=60" alt="Firas Ben Fraj" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas_Ben_Fraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ben-fraj-328a59324/)
 [![Email](https://img.shields.io/badge/Email-firasbf6@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firasbf6@gmail.com)
@@ -14,7 +14,7 @@ embedded control and simulation tools. Vehicle Mechatronics and Informatics Engi
 
 ## 🎯 What I do
 
-| | |
+| Focus | Topics |
 |---|---|
 | 🧪 **Test & Validation** | Test bench support, test automation, vehicle integration, software testing |
 | 🔌 **Bus Systems & Diagnostics** | CAN / CAN-FD, diagnostics, ECU communication |
