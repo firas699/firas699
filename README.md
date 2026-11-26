@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=170&section=header&text=Firas%20Ben%20Fraj&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Mechatronics%20and%20Informatics%20Engineer%20%C2%B7%20M.Sc.%20Intelligent%20Systems&descSize=18&descAlignY=60" alt="Firas Ben Fraj" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=170&section=header&text=Firas%20Ben%20Fraj&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Mechatronics%20Engineer&descSize=18&descAlignY=60" alt="Firas Ben Fraj" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas_Ben_Fraj-0A66C2?style=flat-square)](https://www.linkedin.com/in/firas-ben-fraj-328a59324/)
 [![Email](https://img.shields.io/badge/Email-firasbf6@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firasbf6@gmail.com)
@@ -9,8 +9,7 @@
 </div>
 
 I build systems where **mechanics, electronics and software** meet: from schematics and PCBs to
-embedded control, robotics and vehicle testing. Development engineer, M.Sc. student in Intelligent Systems and B.Eng. in Vehicle Mechatronics and Informatics,
-both at **Ostfalia University of Applied Sciences**.
+embedded control, robotics and vehicle testing. Development engineer, M.Sc. student in **Intelligent Systems** and B.Eng. in **Vehicle Mechatronics and Informatics**, both at **Ostfalia University of Applied Sciences**.
 
 
 ## 🎯 What I do
